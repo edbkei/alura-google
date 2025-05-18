@@ -14,4 +14,4 @@ Em Agente 3, realiza-se uma análise de utilidades das novidades no sentido de p
 uma proposição de solução é requerida.
 
 Em Agente 4, realiza-se uma análise de praticalidades onde as proposições de soluções resultam em uma lista de necessidades para implementar mecanismos para cuidar de idosos, com a utilização de técnicas mais modernas
-na l  ares inteligentes ou smart home..
+em lares inteligentes ou smart home..
